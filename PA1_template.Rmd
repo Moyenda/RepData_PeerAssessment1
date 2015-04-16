@@ -189,4 +189,4 @@ library(lattice)
 xyplot(means ~ intervals | day, weekMeans, type = 'l', xlab = 'interval', ylab = 'mean number of steps', layout = c(1, 2))
 ```
 
-This completes the assignment!
+This completes the assignment! Thanks for reading.
